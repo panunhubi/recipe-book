@@ -1,0 +1,6 @@
+kalasta ahven
+perkaa ahven
+fileroi ahven, voit jättää nahat paikalle
+anna fileiden levätä
+paista fileet voissa
+nauti paistetut ahvenfileet
